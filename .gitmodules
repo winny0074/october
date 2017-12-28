@@ -1,0 +1,6 @@
+[submodule "prod-october.com"]
+	path = prod-october.com
+	url = https://github.com/winny0074/prod-october.com.git
+[submodule "dev-october.com"]
+	path = dev-october.com
+	url = https://github.com/winny0074/dev-october.com.git
